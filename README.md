@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tekodragoon
+- 👀 I’m interested in software and game development
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on any projet
+- 📫 How to reach me : twitter @Tekodragoon
